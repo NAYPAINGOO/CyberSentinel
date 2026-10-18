@@ -1,0 +1,1 @@
+PASS: Waitress loopback HTTP login, CSRF session, demo import, rule filter, incident update, and JSON report.

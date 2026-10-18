@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+instance/
+*.db
+*.db-*
+.secret
+.env
+*.token
+collector-state*.json
+collector-state*.json.lock
